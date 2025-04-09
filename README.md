@@ -32,7 +32,7 @@ This is a FlutterFlow-based mobile app built for managing e-waste recycling in a
 ### Installation
 
 ```bash
-git clone https://github.com//.git
-cd e-waste-recycler-ai
+git clone https://github.com/AngJianming/KitaHack-2025-GDG.git
+cd KitaHack-2025-GDG
 flutter pub get
 flutter run
