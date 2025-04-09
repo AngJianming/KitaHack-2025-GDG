@@ -1,4 +1,5 @@
-# KitaHack-2025-GDG
+# Hackathon: KitaHack 2025 GDG
+Link to Kitahack 2025 [Kitahack.com](https://www.kitahack.com/)
 
 # DigiWastes: An App for Recycling Electronics Effectively Leveraging AI 🌱📱
 
