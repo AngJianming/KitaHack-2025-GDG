@@ -37,3 +37,4 @@ git clone https://github.com/AngJianming/KitaHack-2025-GDG.git
 cd KitaHack-2025-GDG
 flutter pub get
 flutter run
+```
